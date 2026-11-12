@@ -1,0 +1,58 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Acheter du pain",
+      "description": "Aller à la boulangerie pour acheter du pain complet",
+      "Completed": false
+    },
+    {
+      "id": "2",
+      "text": "Réviser le cours de JSON",
+      "description": "Relire les notes et faire les exercices",
+      "Completed": true
+    },
+    {
+      "id": "3",
+      "text": "Faire du sport",
+      "description": "30 minutes de jogging",
+      "Completed": false
+    },
+    {
+      "id": "4",
+      "text": "Appeler le médecin",
+      "description": "Prendre rendez-vous pour un contrôle annuel",
+      "Completed": false
+    },
+    {
+      "id": "5",
+      "text": "Préparer le dîner",
+      "description": "Faire une salade et cuire du poulet",
+      "Completed": true
+    },
+    {
+      "id": "6",
+      "text": "Lire un livre",
+      "description": "Terminer le chapitre 5 du roman en cours",
+      "Completed": false
+    },
+    {
+      "id": "7",
+      "text": "Faire les courses",
+      "description": "Acheter des fruits, légumes et produits laitiers",
+      "Completed": true
+    },
+    {
+      "id": "8",
+      "text": "laver la voiture",
+      "description": null,
+      "Completed": true
+    },
+    {
+      "text": "Apprendre à utiliser Bruno",
+      "completed": false,
+      "id": "m2_sMYmsC7U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
